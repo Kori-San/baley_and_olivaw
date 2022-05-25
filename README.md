@@ -1,5 +1,5 @@
 # Baley & Olivaw
-Baley and Olivaw are Selceon's specific automated scripts for Ansible's AWX.
+Baley and Olivaw are automated scripts for Ansible's AWX.
 
 ## Baley
 - Baley help the user get information and fix issues | ```$ baley [command] [args...]``` :
