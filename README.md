@@ -1,6 +1,8 @@
 # Baley & Olivaw
 Baley and Olivaw are automated scripts for Ansible's AWX.
 
+### Those 2 scriptes are depreciated, please check [this Repo](https://github.com/Kori-San/baley) for an updated and stable version.
+
 ## Baley
 - Baley help the user get information and fix issues | ```$ baley [command] [args...]``` :
     - bash [OPTIONNAL DOCKER] - Begin a bash session on ${main_docker} or given argument
